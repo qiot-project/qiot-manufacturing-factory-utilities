@@ -1,4 +1,4 @@
-package io.qiot.manufacturing.commons.util.producer;
+package io.qiot.manufacturing.factory.commons.util.producer;
 
 import java.util.UUID;
 
