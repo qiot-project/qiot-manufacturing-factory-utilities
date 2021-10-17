@@ -57,12 +57,6 @@
             <version>1.0.0.beta1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>io.qiot.manufacturing.all</groupId>
-            <artifactId>utilities</artifactId>
-            <version>1.0.0.beta1-SNAPSHOT</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
     <profiles>
         <profile>
